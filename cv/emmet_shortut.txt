@@ -1,0 +1,14 @@
+emmet shortut
+
+html:5 + tab
+! + tab
+
+html:4t + tab
+
+h1 + tab : heading 1
+h2 + tab : heading 2
+.
+.
+h6 + tab : heading 6
+
+tag + tab : auto complete tag

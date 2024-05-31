@@ -1,0 +1,48 @@
+<h1> : heading 1 : <h1>abc</h1>
+.
+.
+<h6> : heading 6 : <h6>abc</h6>
+-------------------------
+<p> : paragraph : <p> i am a boy </p>
+----------------------------
+<em> : any text that in between <em> itlic : <p> i am a <em>boy</em></p>
+--------------------------
+<i> : any text that in between <em> itlic 
+---------------------------
+<b> : any text that in between <b> bolded :
+--------------------------
+<strong> : any text that in between <strong> bolded
+---------------------------
+<hr> : add horizontal line : <hr>	--> _______________
+---------------------------
+<ul> : un orderd list : <ul>
+							<li>Apple</li>	-->	dot Apple
+							<li>Mango</li>	-->	dot Mango
+						</ul>
+---------------------------
+<ol> : orderd list:	<ol>
+						<li>Apple</li>	-->	1 Apple
+						<li>Mango</li>	-->	2 Mango
+					</ol>
+					
+					<ol type="i">
+						<li>Apple</li>	-->	 i Apple
+						<li>Mango</li>	-->	ii Mango
+					<ol>
+---------------------------
+img : upload a image in web page : <img src="/path/pic.jpg" alt="pic name" style="width:200px;height:250px;">
+----------------------------
+a : add a link on web page : <a href="https://google.com">Google</a>
+----------------------------
+
+Chosse color and it code
+https://htmlcolorcodes.com/
+
+
+
+
+
+
+
+
+
